@@ -1,0 +1,70 @@
+Bitcoin price dips into $60K range as spot traders flock to Coinbase Lightning Network
+
+Coinbase has rolled out Bitcoin Lightning Network, a payment protocol that side steps network congestion.
+Hong Kong BTC ETFs fail to live up to hype, Bloomberg data shows about $12.8 million in total first day volume.
+Bitcoin price dips into $60,000 threshold, reaching liquidity pool that prompted rebounds over past several weeks.
+BTC bulls need to hold here on the daily time frame, lest we see $52K range tested.
+
+Bitcoin (BTC) price slid lower on Tuesday during the opening hours of the New York session, dipping its toes into a crucial chart area. It comes as markets continue to digest the performance of Hong exchange-traded funds (ETFs) after their first day of issuance.
+
+Also Read: Will Bitcoin price ignore major macro market developments this week?
+
+Daily digest market movers: Coinbase sees new spot traders post Bitcoin dip
+The Bitcoin price downtrend intensified on Tuesday, extending the streak of lower highs and lows that started on April 23. It comes after Hong Kong’s BTC and ETH ETFs hit the market, with Bloomberg reporting nearly $12.8 million in day one trading volume.
+
+CRYPTOS PLUNGE AFTER HONG KONG ETFS LAUNCH
+
+The world's leading cryptocurrencies continued their downward trend on Tuesday, with Bitcoin falling below the $62,000 mark after Hong Kong launched its first crypto exchange-traded funds (ETFs).
+
+The six Hong Kong ETFs missed market…
+
+— *Walter Bloomberg (@DeItaone) April 30, 2024
+According to ETF specialist James Seyffart, this was an underperformance relative to the hype that front ran it.
+
+To be clear. By any reasonable *relative* measure for the launch of these ETFs -- they were a massive success for the HK market
+
+It's just that some were trying to look at what happened in the US and equate that in some way to the HK ETF market on an almost *absolute* basis https://t.co/B2GKmr7L5T
+
+— James Seyffart (@JSeyff) April 30, 2024
+Meanwhile, Coinbase, the largest cryptocurrency trading platform in the US, has rolled out the Lightning Network, a Layer 2 (L2) technology and payment protocol lauded for enabling instant, low-cost transfers of BTC.
+
+An excerpt from the Coinbase website states:
+
+“The Lightning Network allows users to send or receive Bitcoin quickly and cheaply by moving transactions off of the main blockchain — you can think of it as being a little like an HOV lane on a highway.”
+
+The Lightning Network makes BTC transactions move as fast and as cheap as possible as it offloads some transaction “traffic” to the Lightning Network’s L2 blockchain. In so doing, the core Bitcoin blockchain (L1) is able to move faster. 
+
+Coinbase customers can instantly send, receive or pay with Bitcoin on Lightning directly from their Coinbase accounts, with Coinbase CEO Brian Armstrong hailing Lightspark for the collaboration.
+
+Excited to be live on the #Bitcoin Lightning network - let's get every transaction under 1 second and 1 cent to bring in the next wave of adoption.
+
+And huge shout out to @lightspark for the excellent partnership. https://t.co/DwhnHZ6fqB
+
+— Brian Armstrong (@brian_armstrong) April 30, 2024
+There has been a lot of spot selling through Coinbase since the market open again as traders poune on the privileges of the Lightning Network. 
+
+#Bitcoin A lot of spot selling through Coinbase since the market open again.
+
+Becoming a theme these days. pic.twitter.com/b83jOpnbmB
+
+— Daan Crypto Trades (@DaanCrypto) April 30, 2024
+As Bitcoin price continues to crash, some analysts say it could bottom out near the $58,000 threshold after a sweep of the sell-side liquidity in the one-day time frame before a correction.  
+
+Nevertheless, @DaanCrypto, a crypto analyst on X, observes that this expectation could make traders front run the target, effectively making the price avoid it via recovery or surge right past it.  
+
+Meanwhile, Bitcoin price is on its 60th day of consolidation, which is no match compared to what was seen in the last two halving events, where BTC consolidated for 189 days (2016) and 87 days (2020) before the bull market kicked off.  
+
+In the three weeks after the 2016 halving, however, Bitcoin price slipped into the range low area of its then re-accumulation range, just as it has done now.
+
+Technical analysis: Bitcoin price must hold above 100-day EMA
+Bitcoin price is sitting on support due to the 100-day Exponential Moving Average (EMA) at $59,930. This moving average has held as support multiple times before, effectively holding BTC within the liquidity pool.
+
+If the aforementioned support breaks, Bitcoin price could extend the fall, potentially slipping below the pool of liquidity and wiping out the March 5 low of $59,005.
+
+In a dire case, and cognizant that there are no volume spikes to show bullish activity waiting to salvage BTC from the fall, at least not until the $51,889 area that is marked by the 200-day EMA,  Bitcoin price could fall as low as $52,000. This would denote a 15% drop below current levels.
+
+The Relative Strength Index (RSI) hints at further downward potential for BTC as the momentum indicator continues to record lower highs. The outlook is even worse as the RSI continues to fall farther away from the mean level of 50. The Awesome Oscillator (AO) is also in negative territory due to growing bearish sentiment.
+
+On the other hand, if the bulls salvage the market, Bitcoin price could pull north. In such a directional bias, key roadblocks to overcome would be the confluence of resistance between the 20 and 50-day EMAs at $64,613 and $64,382, respectively.
+
+With a lot of bearish activity waiting to descend on the Bitcoin price above, marked by the grey spikes on the volume profile, only a candlestick close above $72,000 would suggest Bitcoin price is out of the woods. This would set the tone for a reclamation of the $73,777 peak of March 14, with the potential to establish a new all-time high above it.

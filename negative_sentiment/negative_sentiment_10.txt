@@ -1,0 +1,135 @@
+From $250,000 to $10,000 price calls: How market watchers got it wrong with bitcoin in 2022
+
+Key Points
+From Tim Draper to top crypto bosses, the market was awash with pundits predicting new record highs for bitcoin in 2022.
+Other market players were less positive, and some correctly called bitcoin sinking below the $20,000 mark, even as low as $10,000.
+But the failure of stablecoin terraUSD, liquidity issues across the crypto industry and the dramatic collapse of the FTX exchange, shocked investors and sent ripples through the market.
+
+2022 marked the start of a new “crypto winter,” with high-profile companies collapsing across the board and prices of digital currencies crashing spectacularly. The events of the year took many investors by surprise and made the task of predicting bitcoin’s price that much harder.
+
+The crypto market was awash with pundits making feverish calls about where bitcoin was heading next. They were often positive, though a few correctly forecast the cryptocurrency sinking below $20,000 a coin.
+
+But many market watchers were caught off guard in what has been a tumultuous year for crypto, with high-profile company and project failures sending shock waves across the industry.
+
+It began in May with the collapse of terraUSD, or UST, an algorithmic stablecoin that was supposed to be pegged one-to-one with the U.S. dollar. Its failure brought down terraUSD’s sister token luna and hit companies with exposure to both cryptocurrencies.
+
+Three Arrows Capital, a hedge fund with bullish views on crypto, plunged into liquidation and filed for bankruptcy because of its exposure to terraUSD.
+
+Then came the November collapse of FTX, one of the world’s largest cryptocurrency exchanges which was run by Sam Bankman-Fried, an executive who was often in the spotlight. The fallout from FTX continues to ripple across the cryptocurrency industry.
+
+On top of crypto-specific failures, investors have also had to contend with rising interest rates, which have put pressure on risk assets, including stocks and crypto.
+
+Bitcoin has sunk around 75% since reaching its all-time high of nearly $69,000 in November 2021 and more than $2 trillion has been wiped off the value of the entire cryptocurrency market. On Friday, bitcoin was trading at just under $17,000.
+
+CNBC reached out to the people behind some of the boldest price calls on bitcoin in 2022, asking them how they got it wrong and whether the year’s events have changed their outlook for the world’s largest digital currency. 
+
+Tim Draper: $250,000 
+In 2018, at a tech conference in Amsterdam, Tim Draper predicted bitcoin reaching $250,000 a coin by the end of 2022. The famed Silicon Valley investor wore a purple tie with bitcoin logos, and even performed a rap about the digital currency onstage. 
+
+Four years later, it’s looking pretty unlikely Draper’s call will materialize. When asked about his $250,000 target earlier this month, the Draper Associates founder told CNBC $250,000 “is still my number” — but he’s extending his prediction by six months.
+
+“I expect a flight to quality and decentralized crypto like bitcoin, and for some of the weaker coins to become relics,” he told CNBC via email.
+
+Bitcoin would need to rally nearly 1,400% from its current price of just under $17,000 for Draper’s prediction to come true. His rationale is that despite the liquidation of notable players in the market like FTX, there’s still a huge untapped demographic for bitcoin: women.
+
+“My assumption is that, since women control 80% of retail spending and only 1 in 7 bitcoin wallets are currently held by women, the dam is about to break,” Draper said.
+
+Nexo: $100,000 
+In April, Antoni Trenchev, the CEO of crypto lender Nexo, told CNBC he thought the world’s biggest cryptocurrency could surge above $100,000 “within 12 months.” Though he still has four months to go, Trenchev acknowledges it is improbable that bitcoin will rally that high anytime soon. 
+
+Bitcoin “was on a very positive path” with institutional adoption growing, Trenchev says, but “a few major forces interfered,” including an accumulation of debt, borrowing without collateral or against low-quality collateral, and fraudulent activity. 
+
+“I am pleasantly surprised by the stability of crypto prices, but I do not think we are out of the woods yet and that the second and third-order effects are still to play out, so I am somewhat skeptical as to a V-shape recovery,” Trenchev said. 
+
+The entrepreneur says he’s also done making bitcoin price predictions. “My advice to everyone, however, remains unchanged,” he added. “Get a single digit percentage point of your investable assets in bitcoin and do not look at it for 5-10 years. Thank me later.” 
+
+Guido Buehler: $75,000 
+On Jan. 12, Guido Buehler, the former CEO of regulated Swiss bank Seba, which is focused on cryptocurrencies, said his company had an “internal valuation model” of between $50,000 and $75,000 for bitcoin in 2022.
+
+Buehler’s reasoning was that institutional investors would help drive the price higher.
+
+At the time, bitcoin was trading at between $42,000 and $45,000. Bitcoin never reached $50,000 in 2022.
+
+The executive, who now runs his own advisory and investment firm, said 2022 has been an “annus horribilis,” in response to CNBC questions about what went wrong with the call.
+
+“The war in Ukraine in February triggered a shock to the paradigm of world order and the financial markets,” Buehler said, citing the consequences of raised market volatility and rising inflation in light of the disruption of commodities like oil.
+
+Another major factor was “the realization that interest rates are still the driver of most asset classes,” including crypto, which “was hard blow for the crypto community, where there has been the belief that this asset class is not correlated to traditional assets.”
+
+Buehler said lack of risk management in the crypto industry, missing regulation and fraud have also been major factors affecting prices.
+
+The executive remains bullish on bitcoin, however, saying it will reach $75,000 “sometime in the future,” but that it is “all a matter of timing.”
+
+“I believe that BTC has proven its robustness throughout all the crisis since 2008 and will continue to do so.”
+
+Paolo Ardoino: $50,000 
+Paolo Ardoino, chief technology officer of Bitfinex and Tether, told CNBC in April that he expected bitcoin to fall sharply below $40,000 but end the year “well above” $50,000.
+
+“I’m a bullish person on bitcoin … I see so much happening in this industry and so many countries interested in bitcoin adoption that I’m really positive,” he said at the time.
+
+On the day of the interview, bitcoin was trading above $41,000. The first part of Ardoino’s call was correct — bitcoin did fall well below $40,000. But it never recovered.
+
+In a follow-up email this month, Ardoino said he believes in bitcoin’s resilience and the blockchain technology underlying it.
+
+“As mentioned, predictions are hard to make. No one could have predicted or foreseen the number of companies, well regarded by the global community, failing in such a spectacular fashion,” he told CNBC.
+
+“Some legitimate concerns and questions remain around the future of crypto. It might be a volatile industry, but the technologies developed behind it are incredible.”
+
+Deutsche Bank: $28,000 
+A key theme in 2022 has been bitcoin’s correlation to U.S. stock indexes, especially the tech-heavy Nasdaq 100. In June, Deutsche Bank analysts published a note that said bitcoin could end the year with a price of approximately $27,000. At the time of the note, bitcoin was trading at just over $20,000.
+
+It was based on the belief from Deutsche Bank’s equity analysts that the S&P 500 would jump to $4,750 by year-end.
+
+But that call is unlikely to materialize.
+
+Marion Laboure, one of the authors of Deutsche Bank’s initial report on crypto in June, said the bank now expects bitcoin to end the year around $21,000.
+
+“High inflation, monetary tightening, and slow economic growth have likely put additional downward pressure on the crypto ecosystem,” Laboure told CNBC, adding that more traditional assets such as bonds may begin to look more attractive to investors than bitcoin.
+
+Laboure also said high-profile collapses continue to hit sentiment.
+
+“Every time a major player in the crypto industry fails, the ecosystem suffers a confidence crisis,” she said.
+
+“In addition to the lack of regulation, crypto’s biggest hurdles are transparency, conflicts of interest, liquidity, and the lack of reliable available data. The FTX collapse is a reminder that these problems continue to be unresolved.”
+
+JPMorgan: $13,000 
+In a Nov. 9 research note, JPMorgan analyst Nikolaos Panigirtzoglou and his team predicted the price of bitcoin would slump to $13,000 “in the coming weeks.” They had the benefit of hindsight after the FTX liquidity crisis, which they said would cause a “new phase of crypto deleveraging,” putting downside pressure on prices.
+
+The cost it takes miners to produce new bitcoins historically acts as a “floor” for bitcoin’s price and is likely to revisit a $13,000 low as seen over the summer months, the analysts said. That’s not as far off bitcoin’s current price as some other predictions, but it’s still much lower than Friday’s price of just under $17,000.
+
+A JPMorgan spokesperson said Panigirtzoglou “isn’t available to comment further” on his research team’s forecast.
+
+Absolute Strategy Research: $13,000 
+Ian Harnett, co-founder and chief investment officer at macro research firm Absolute Strategy Research, warned in June that the world’s top digital currency was likely to tank as low as $13,000.
+
+Explaining his bearish call at the time, Harnett said that, in crypto rallies past, bitcoin had subsequently tended to fall roughly 80% from all-time highs. In 2018, for instance, the token plummeted close to $3,000 after hitting a peak of nearly $20,000 in late 2017.
+
+Harnett’s target is closer than most, but bitcoin would need to fall another 22% for it to reach that level.
+
+When asked about how he felt about the call today, Harnett said he is “very happy to suggest that we are still in the process of the bitcoin bubble deflating” and that a drop close to $13,000 is still on the cards.
+
+“Bubbles usually see an 80% reversal,” he said in response to emailed questions.
+
+With the U.S. Federal Reserve likely set to raise interest rates further next year, an extended drop below $13,000 to $12,000 or even $10,000 next can’t be ruled out, according to Harnett.
+
+“Sadly, there is no intrinsic valuation model for this asset — indeed, there is no agreement whether it is a commodity or a currency — which means that there is every possibility that this could trade lower if we see tight liquidity conditions and/or a failure of other digital entities / exchanges,” he said.
+
+Mark Mobius: $20,000 then $10,000
+Veteran investor Mark Mobius has probably been one of the more accurate predictors of bitcoin.
+
+In May, when the price of bitcoin was above $28,000, he told Financial News that bitcoin would likely fall to $20,000, then bounce, but ultimately move down to $10,000.
+
+Bitcoin did fall below $20,000 in June, and then bounce in August before falling again through the rest of the year.
+
+However, the $10,000 mark was not reached.
+
+Mobius told CNBC he forecasts bitcoin to hit $10,000 in 2023.
+
+Carol Alexander: $10,000  
+In December 2021, a month on from bitcoin’s all-time high, Carol Alexander, professor of finance at Sussex University, said she expected bitcoin to drop down to $10,000 “or even more” in 2022.
+
+Bitcoin at the time had fallen about 30% from its near $69,000 record. Still, many crypto talking heads at the time were predicting further gains. Alexander was one of the rare voices going against the tide.
+
+“If I were an investor now I would think about coming out of bitcoin soon because its price will probably crash next year,” she said at the time. Her bearish call rested on the idea that bitcoin has little intrinsic value and is mostly used for “speculation.”
+
+Bitcoin didn’t quite slump as low as $10,000 — but Alexander is feeling good about her prediction. “Compared with others’ predictions, mine was by far the closest,” she said in emailed comments to CNBC.
